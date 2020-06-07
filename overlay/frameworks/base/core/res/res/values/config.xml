@@ -683,4 +683,6 @@
     <string-array name="config_deviceKeyHandlerClasses" translatable="false">
         <item>org.lineageos.settings.device.KeyHandler</item>
     </string-array>
+
+    <bool name="config_buttonTextAllCaps">false</bool>
 </resources>
